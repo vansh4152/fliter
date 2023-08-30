@@ -1,8 +1,8 @@
-API_ID       = 21956488
-API_HASH     = "812529f879f06436925c7d62eb49f5d1"
-BOT_TOKEN    = "6590082039:AAGWEMkuphepkyIrECQFGMTBAJ5VKXaBFMM"
-SESSION      = "BQFPB4gAfwfbeM3IBRoZOEqosM2OWBUWE8ZZEBTb7gSesguBJozRY6wEdZdhPhhIsbXjflIdaVjXhpsy_tICyrCAAmxqT0tLRXfhMKI4CCeJP7bxTi6Vxo-_X5lHnADbhXhdVbo3zfVqBwHhbpMuCJBrOIzSrZ_Bx9E08Ekldg4fcEp3_uB-Ozjbfc_fP2POxXdBQRWVgAzy9PimWv436sc0KoScptWtnzVpwIa-wBAvnoneffsMhlqwVdCCLwmU-xeINIL2ZyuY5mgaP_K8AyfsAW_gCFs3iRfE8imNChBJmUBtCaf9K1ACYvudhvxpcQ0SNTyySlkPtjgMDC02jremq3-HFQAAAAB4ai0IAA"
-DATABASE_URI = "mongodb+srv://smmpanelup:9719619584@cluster0.mwjxbie.mongodb.net/?retryWrites=true&w=majority"
-LOG_CHANNEL  = -1001870213031
-ADMIN        = 2020224264
-CHANNEL      = "@moviekorner_1"
+API_ID       = 23565903
+API_HASH     = "2a87af806641e62069aac6fb658675d6"
+BOT_TOKEN    = "6354825319:AAFPuFkgUpVbnmQq1yP_6BNOIhg1QRiP9gg"
+SESSION      = "BQFnlk8AKNfpgrKx3AKcvBmU9k4Ec2dB13MK1WezWiJl5rNDqcUBeQtnGvWyMbcr4hr0gJsDWCoPTePI0ii4cr7ZSbMZRFA0YoR6uS3SQS0Zg3p7GSVeOHpehA-wCZQwa_XNfkiItIv14yeb1Q5V7MLryWsAYOVRxRkHEnvVJE2BpdHCFdXzTrZ4afZm2GRaRCwntI12it50nnLc3V_3c4iDUvPYqksLQWfpAhUYEZF1cDTZBCbD-Z0DeNeBV0QNUgHjHL5BWIGN7D8ytopU1C89MqLdwe33peXagmignuGKVhqTZ7Zcw_r2l_gfPeq6-nst5mep15q6fOqD19Z8ZENtnLWlSgAAAAFw9t7_AA"
+DATABASE_URI = "mongodb+srv://fliter_bot:9634441830@cluster0.8pgabzd.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = -1001915049796
+ADMIN        = 6190194431
+CHANNEL      = "vip_bro10"
